@@ -59,6 +59,8 @@ h1 {
 .bar-det {
   font-size: 20px;
   font-style: oblique;
+  position:relative;
+  left:50px;
 }
 
 .mount {
